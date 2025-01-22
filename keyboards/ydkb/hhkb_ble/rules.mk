@@ -12,7 +12,7 @@ BOOTLOADER_SIZE = 6144
 #   change yes to no to disable
 #
 CUSTOM_MATRIX           = yes # Custom matrix file
-UNICODE_ENABLE          = yes # Unicode
+#UNICODE_ENABLE          = yes # Unicode
 BOOTMAGIC_ENABLE        = yes # Enable Bootmagic Lite
 MOUSEKEY_ENABLE         = yes # Mouse keys
 EXTRAKEY_ENABLE         = yes # Audio control and System control
